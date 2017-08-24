@@ -7,8 +7,8 @@ int lastUpdate = 0;
 int currentIndex = 0;
 char* lyrics[] = { 
   "*****WELCOME*****", 
-  "   RETION SHOP   ",
-  "     plees       ",
+  "   RATION SHOP   ",
+  "     please      ",
   "swipe your card..."
 }; 
 //**************IFID reader**************************
